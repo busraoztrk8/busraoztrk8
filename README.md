@@ -2,7 +2,7 @@
 
 <h3 align="center">Hi I'm  Büşra!</h3>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **JavaScript**
 
 - 📫 How to reach me **busraoztrk01656@gmail.com**
 
