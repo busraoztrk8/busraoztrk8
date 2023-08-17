@@ -1,6 +1,6 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/04/47/17/68/1000_F_447176828_7Leejwia38M4u7OA3EdTGjwWapEwTHx0.jpg)
 
-<h3 align="center">Hi I'm  Büşra!</h3>
+<h3 align="center">Hi,👋🏻 I'm  Büşra!</h3>
 
 - 🔭 I’m currently working on **JavaScript,Java,HTML,CSS,SQL**
 
